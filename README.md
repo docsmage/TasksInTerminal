@@ -8,4 +8,4 @@ For non-programmers: Review Zed Shaw's [Command Line Crash Course](http://cli.le
 
 3) Once you are in the correct folder, type 'todo.rb' into your terminal to run the task list. Enjoy!
 
-&copy; Copyright Renee Carignan Schaaf 2014 all rights reserved.
+&copy; Renee Carignan Schaaf 2014. All rights reserved.
