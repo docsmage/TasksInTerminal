@@ -6,3 +6,5 @@
 For Non-programmers: use 'cd', 'sls', and 'pwd' commands to do this. Review Zed Shaw's [Command Line Crash Course](http://cli.learncodethehardway.org/book/) to learn how to do this on your own.
 
 3) Once you are in the correct folder, type 'todo.rb' into your terminal to run the task list. Enjoy!
+
+(c) Copyright Renee Carignan Schaaf 2014 all rights reserved.
