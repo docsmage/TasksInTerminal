@@ -7,4 +7,4 @@ For Non-programmers: use 'cd', 'sls', and 'pwd' commands to do this. Review Zed 
 
 3) Once you are in the correct folder, type 'todo.rb' into your terminal to run the task list. Enjoy!
 
-(c) Copyright Renee Carignan Schaaf 2014 all rights reserved.
+&copy; Copyright Renee Carignan Schaaf 2014 all rights reserved.
