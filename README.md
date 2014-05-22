@@ -1,4 +1,4 @@
-Welcome to TasksInTerminal! To run this file, please do the following:
+##### Welcome to TasksInTerminal! To run this file, please do the following:
 
 1) Clone the git repository to your local machine. (For non-programmers, that means copy/pasting the 'clone' link on the repository page, then typing 'git clone' followed by the link into your terminal.)
 
